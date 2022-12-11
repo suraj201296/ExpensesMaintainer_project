@@ -1,0 +1,24 @@
+.expense-date {
+    border: 2px solid white;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.exp-date-day {
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}
+
+.exp-date-month {
+    font-size: medium;
+    font-weight: normal;
+    color: white;
+}
+
+.exp-date-year {
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}
